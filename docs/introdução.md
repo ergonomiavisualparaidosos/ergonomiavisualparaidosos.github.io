@@ -1,10 +1,10 @@
 ---
-title: Introdução
+title: 1 Introdução
 layout: page
 nav_order: 2
 ---
 
-# **1 INTRODUÇÃO**
+# 1 INTRODUÇÃO
 
 O envelhecimento gradual da população é um fenômeno global que há de impactar a sociedade em um futuro próximo. Segundo dados divulgados pela Organização Mundial da Saúde (OMS), a expectativa global de vida saltou de 66,8 anos em 2000 para 73,3 anos em 2019 (Sanderberg; Buogo, 2022). Esse fenômeno resulta no aumento da população idosa relativa ao resto da sociedade. O público mais velho precisa ter suas limitações atendidas, e com a difusão moderna das tecnologias digitais — e a demanda crescente por materiais gráficos acessíveis — é fundamental que profissionais do design estejam preparados para atender estas necessidades emergentes. A ferramenta ideal para compreender essas demandas é o estudo da ergonomia, a área do conhecimento que tem a função de adaptar o ambiente e as práticas físicas ao corpo humano, sem deixar de considerar suas limitações motoras e cognitivas. Para os idosos, a disponibilidade de ferramentas ergonômicas é essencial para garantir sua autonomia e qualidade de vida.
 

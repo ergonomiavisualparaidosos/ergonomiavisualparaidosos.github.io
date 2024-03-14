@@ -1,16 +1,10 @@
 ---
-title: Tipografia
+title: 2 Tipografia
 layout: page
 nav_order: 3
 ---
 
 # 2 TIPOGRAFIA
-
-## Tabela de Conteúdos
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ## 2.1 Conceituações Básicas
 

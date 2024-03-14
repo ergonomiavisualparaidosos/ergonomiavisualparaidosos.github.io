@@ -7,7 +7,7 @@ nav_order: 3
 # 2 TIPOGRAFIA
 {: .no_toc }
 
-## Table of contents
+## Tabela de Conteúdos
 {: .no_toc .text-delta }
 
 1. TOC

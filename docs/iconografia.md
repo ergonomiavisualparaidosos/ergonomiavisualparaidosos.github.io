@@ -33,7 +33,7 @@ Grande parte da informação espaço-temporal reconhecida pelo indivíduo é dec
 
 O designer não tem a capacidade de atuar diretamente no organismo do usuário, mas pode adequar tanto os fatores ambientais quanto a complexidade da tarefa exigida de acordo com as necessidades e limitações de seu público alvo.
 
-Segundo Csillag (2015 apud Farias, 2019), o conceito de percepção no contexto da psicologia moderna se constitui como um processo ativo de busca por informação; esse processo atua como um mediador entre sensação e comportamento. Com o intuito de compreender cada etapa perceptiva, a autora desenvolveu o modelo de percepção visual SENS|ORG|INT, que divide o processo em três estágios distintos.
+Segundo Csillag (2015 apud Farias, 2019), o conceito de percepção no contexto da psicologia moderna se constitui como um processo ativo de busca por informação; esse processo atua como um mediador entre sensação e comportamento. Com o intuito de compreender cada etapa perceptiva, a autora desenvolveu o modelo de percepção visual SENS ORG INT, que divide o processo em três estágios distintos.
 
 (Imagem)
 

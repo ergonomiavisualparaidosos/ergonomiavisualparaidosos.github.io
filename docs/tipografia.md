@@ -7,15 +7,11 @@ nav_order: 3
 # TIPOGRAFIA
 {: .no_toc }
 
-<details open markdown="block">
-  <summary>
 ## Tabela de Conteúdos
-  </summary>
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-</details>
 
 ---
 

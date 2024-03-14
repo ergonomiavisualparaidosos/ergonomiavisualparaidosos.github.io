@@ -1,10 +1,10 @@
 ---
-title: 2 Tipografia
+title: Tipografia
 layout: page
 nav_order: 3
 ---
 
-# 2 TIPOGRAFIA
+# TIPOGRAFIA
 {: .no_toc }
 
 ## Tabela de Conteúdos
@@ -15,7 +15,7 @@ nav_order: 3
 
 ---
 
-## 2.1 Conceituações Básicas
+## Conceituações Básicas
 
 Com o avanço da idade, tem-se a alteração da percepção e dos órgãos dos sentidos. É possível identificar uma diminuição na percepção de luz pelos idosos, ocasionada através das mudanças sofridas pelos olhos, e como isso afeta a qualidade de vida desses indivíduos. Vale ressaltar que Instituições como as UnTIs (Universidades abertas à Terceira Idade) fornecem suporte social e compensações para lidar com as perdas e dificuldades provenientes da idade.
 
@@ -31,7 +31,7 @@ Outro aspecto que deve ser considerado é a relação entre o usuário e o equip
 
 Em resumo, é fundamental que designers, educadores e profissionais de saúde considerem as necessidades dos idosos em seus projetos e práticas, reconhecendo que o envelhecimento é um processo inevitável que requer adaptação e inclusão. O design inclusivo pode desempenhar um papel importante na promoção da qualidade de vida dos idosos e na garantia de que eles possam desfrutar de uma vida independente e autônoma.
 
-## 2.2 Design Universal e Inclusivo para Idosos
+## Design Universal e Inclusivo para Idosos
 
 Uma área importante do design universal aborda a importância da tipografia inclusiva, que é a adequação das formas das letras para melhorar a percepção e compreensão de pessoas com problemas de visão. O envelhecimento humano, bem como a redução da acuidade visual, podem comprometer o fluxo comunicacional dos elementos tipográficos. Por isso, a tipografia inclusiva estuda formas de tornar as fontes mais acessíveis e legíveis para todos os usuários (Farias, 2019).
 
@@ -49,7 +49,7 @@ Grandes modulações tendem a gerar ruídos de informações durante a leitura. 
 
 A tipografia inclusiva pode ser aplicada em diversos contextos, desde a criação de materiais educacionais até a elaboração de documentos oficiais. É importante que os designers e responsáveis pela criação desses documentos tenham conhecimento sobre as estratégias inclusivas da tipografia e as apliquem em seus projetos.
 
-## 2.3 Características Indicadas para Tipografia
+## Características Indicadas para Tipografia
 
 De acordo com Farias e Landim (2020), há uma diferença significativa entre os erros de percepção e compreensão nos testes com letras, palavras e texto.
 
@@ -96,7 +96,7 @@ Dentre esses recursos, o  autor recomenda uso do negrito, itálico ou uma mudan�
 
 (Imagem)
 
-## 2.4 Contrastes Sugeridos para Melhor Legibilidade/Leiturabilidade
+## Contrastes Sugeridos para Melhor Legibilidade/Leiturabilidade
 
 Segundo Farias (2019), tipografias que possuem traços com contraste uniforme  entre as hastes obtiveram resultados inferiores na pesquisa, apresentando maior número de erros, porém esse traçado foi o mais escolhido pelo público, o que sugere que esse estilo gráfico pode ser a opção mais inclusiva. 
 
@@ -106,7 +106,7 @@ Para Casseb (2007), uma outra variável a ser considerada ao analisar melhores c
 
 Além disso, o autor sugere evitar o uso de contrastes de cores com comprimentos de onda curtos (azul, violeta, verde) para informações importantes, pois essas cores apresentam maior dificuldade em serem percebidas pelos idosos e pessoas com problemas visuais (Casseb, 2007).
 
-## 2.5 Dimensões Adequadas
+## Dimensões Adequadas
 
 A pesquisa realizada por Farias e Landim (2020) mostrou que a variável da escolaridade influenciou na preferência de tamanho dos tipos, indivíduos com menor escolaridade tendem a escolher fontes de maior tamanho uma vez que isto facilita o reconhecimento das palavras.
 

@@ -5,6 +5,15 @@ nav_order: 3
 ---
 
 # 2 TIPOGRAFIA
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## 2.1 Conceituações Básicas
 

@@ -6,6 +6,12 @@ nav_order: 3
 
 # 2 TIPOGRAFIA
 
+## Tabela de Conteúdos
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## 2.1 Conceituações Básicas
 
 Com o avanço da idade, tem-se a alteração da percepção e dos órgãos dos sentidos. É possível identificar uma diminuição na percepção de luz pelos idosos, ocasionada através das mudanças sofridas pelos olhos, e como isso afeta a qualidade de vida desses indivíduos. Vale ressaltar que Instituições como as UnTIs (Universidades abertas à Terceira Idade) fornecem suporte social e compensações para lidar com as perdas e dificuldades provenientes da idade.

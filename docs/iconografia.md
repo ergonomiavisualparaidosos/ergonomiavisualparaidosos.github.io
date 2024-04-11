@@ -5,10 +5,10 @@ nav_order: 4
 ---
 
 # ICONOGRAFIA
-{: .no_toc }
+{: .no_toc}
 
 ## Tabela de Conteúdos
-{: .no_toc .text-delta }
+{: .no_toc .text-delta}
 
 1. TOC
 {:toc}
@@ -23,11 +23,11 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 
 
 **Imagem 16** — teste.
-{: .text-center }
+{: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2016.png)
-{: .mx-auto }
+{: .mx-auto}
 **Fonte:** do autor.
-{: .text-center }
+{: .text-center .fs-3}
 
 De acordo com a teoria da capacidade sensorial descrita por Kroemer e Grandjean (2005 apud Farias, 2019), existe um limiar perceptivo que só pode ser extrapolado através da transmissão de um volume adequado de informações que quando escasso, perde-se. Há uma série de restrições características ao envelhecimento que, quando presentes, são capazes de comprometer o limiar da percepção visual dos idosos. Estas restrições incluem: deficiências do organismo, decorrentes das degradações fisiológicas características à terceira idade; do ambiente, como a iluminação e demais fatores do espaço físico; e da tarefa a ser realizada e seu grau de complexidade (Barela; Barela; Rodrigues, 2008 apud Farias, 2019).
 

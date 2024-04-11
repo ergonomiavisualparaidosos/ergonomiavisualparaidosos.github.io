@@ -23,11 +23,9 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 
 
 <div style="text-align: center;">
-**Figura 16** — Redundância e hierarquia das informações.
 
 ![](Imagens/Iconografia/figura%2016.png)
 
-**Fonte:** do autor.
 </div>
 
 De acordo com a teoria da capacidade sensorial descrita por Kroemer e Grandjean (2005 apud Farias, 2019), existe um limiar perceptivo que só pode ser extrapolado através da transmissão de um volume adequado de informações que quando escasso, perde-se. Há uma série de restrições características ao envelhecimento que, quando presentes, são capazes de comprometer o limiar da percepção visual dos idosos. Estas restrições incluem: deficiências do organismo, decorrentes das degradações fisiológicas características à terceira idade; do ambiente, como a iluminação e demais fatores do espaço físico; e da tarefa a ser realizada e seu grau de complexidade (Barela; Barela; Rodrigues, 2008 apud Farias, 2019).

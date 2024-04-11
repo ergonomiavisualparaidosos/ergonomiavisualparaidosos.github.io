@@ -25,7 +25,7 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 <div style="text-align: center;">
 **Figura 16** — Redundância e hierarquia das informações.
 
-![](/Imagens/Iconografia/figura%2016.png)
+![](Imagens/Iconografia/figura%2016.png)
 
 **Fonte:** do autor.
 </div>

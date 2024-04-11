@@ -22,14 +22,20 @@ Uma característica intrínseca ao processo de envelhecimento é o gradual decl�
 Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos gráficos, compreendemos seu significado por meio de um processo de conciliação entre os estímulos visuais observados e nossas memórias, um repertório de experiências prévias. Nesse sentido, trata-se de cognição o esforço interpretativo realizado para compreender a informação apresentada e transformá-la em conhecimento. Quanto menor for nossa familiaridade com o elemento gráfico apresentado, maior será a carga cognitiva necessária para interpretá-lo de forma correta. O papel do designer é aplicar estratégias gráficas — como redundância e hierarquia da informação — com o intuito de reduzir o atrito cognitivo entre o observador e a representação visual.
 
 
+**imagem 16** — teste.
+{: .text-center }
+
 ![](Imagens/Iconografia/figura%2016.png)
 {: .mx-auto }
+
+**fonte:** do autor.
+{: .text-center}
 
 <img
     style="display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;"
+        width: 90%;"
     src="Imagens/Iconografia/figura%2016.png">
 
 ![](/docs/Imagens/Iconografia/figura%2016.png)

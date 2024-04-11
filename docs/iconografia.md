@@ -24,7 +24,7 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 
 <div style="text-align: center;">
 
-![](Imagens/Iconografia/figura%2016.png)
+![teste](Imagens/Iconografia/figura%2016.png "teste")
 
 </div>
 

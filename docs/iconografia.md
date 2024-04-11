@@ -23,15 +23,14 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 
 
 ![](Imagens/Iconografia/figura%2016.png)
-{: .text-center }
+{: .mx-auto }
 
 <img
     style="display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 30%;"
+        width: 100%;"
     src="Imagens/Iconografia/figura%2016.png">
-</img>
 
 ![](/docs/Imagens/Iconografia/figura%2016.png)
 

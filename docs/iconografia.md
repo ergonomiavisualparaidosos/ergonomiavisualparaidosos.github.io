@@ -24,7 +24,7 @@ Segundo Padovani e Moura (2008 apud Farias, 2019), quando observamos elementos g
 **Figura 16** — Redundância e hierarquia das informações.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2016.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -33,7 +33,7 @@ De acordo com a teoria da capacidade sensorial descrita por Kroemer e Grandjean 
 **Figura 17** — Deficiências características ao envelhecimento.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2017.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -42,7 +42,7 @@ Grande parte da informação espaço-temporal reconhecida pelo indivíduo é dec
 **Figura 18** — Redução da acuidade visual e amarelamento da visão.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2018.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -53,7 +53,7 @@ Segundo Csillag (2015 apud Farias, 2019), o conceito de percepção no contexto 
 **Figura 19** — Modelo de percepção SENS ORG INT.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2019.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -70,7 +70,7 @@ Outro componente fundamental é a capacidade de síntese visual do sujeito, sua 
 **Figura 20** — Simplificação dos elementos visuais.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2020.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -83,7 +83,7 @@ Shinar et al. (2003 apud Liu; Ho, 2012) comparou os níveis de compreensão de p
 **Figura 21** — Comparação de placas adequadas e inadequadas.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2021.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -94,7 +94,7 @@ Essa maior dificuldade discernível entre idosos é parcialmente atribuível à 
 **Figura 22** — Exemplificação de placas luminosas.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2022.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -105,7 +105,7 @@ Estudos indicam que símbolos bem projetados — ou seja, sintéticos e facilmen
 **Figura 23** — Exemplos de placas de trânsito.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2023.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -114,7 +114,7 @@ O fator mais relacionado com a performance na compreensão de um símbolo (deter
 **Figura 24** — Definição do tamanho da tipografia em rodovias.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2024.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -129,14 +129,14 @@ A dificuldade dos idosos em visualizar os ícones no monitor também é capaz de
 **Figura 25** — Problemas de postura decorrentes da dificuldade de visualização.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2025.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
 **Figura 26** — Recomendações de uso para interfaces digitais.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2026.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -147,7 +147,7 @@ Uma prática imprescindível para tornar interfaces digitais mais acessíveis ao
 **Figura 27** — Aplicação de descrições visuais aos elementos gráficos.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2027.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -156,7 +156,7 @@ Objetos de controle apresentados na interface, como links, botões de comando, c
 **Figura 28** — Superdimensionamento de elementos gráficos para interfaces.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2028.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -165,7 +165,7 @@ Objetos de controle apresentados na interface, como links, botões de comando, c
 **Figura 29** — Combinação de cores de mesma matiz.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2029.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -174,7 +174,7 @@ Recomenda-se utilizar ícones grandes, legíveis, significativos e facilmente di
 **Figura 30** — Aplicação de ícones grandes, legíveis e facilmente diferenciáveis.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2030.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -183,21 +183,21 @@ Por fim, é necessário aplicar as informações (mensagens, ícones, rótulos, 
 **Figura 31** — Layout da página inicial (landing page).
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2031.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}
 
 **Figura 32** — Indicação da aba de projetos pela mudança de cor.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2032.png)
-{: .mx-auto}
+{: .mx-auto .px-8}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}
 
 **Figura 33** — Identificação da aba de identidade visual (em negativo).
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2033.png)
-{: .mx-auto .px-auto}
+{: .mx-auto .px-8}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}
 

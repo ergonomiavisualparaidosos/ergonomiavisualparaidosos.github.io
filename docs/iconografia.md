@@ -50,7 +50,7 @@ O designer não tem a capacidade de atuar diretamente no organismo do usuário, 
 
 Segundo Csillag (2015 apud Farias, 2019), o conceito de percepção no contexto da psicologia moderna se constitui como um processo ativo de busca por informação; esse processo atua como um mediador entre sensação e comportamento. Com o intuito de compreender cada etapa perceptiva, a autora desenvolveu o modelo de percepção visual SENS ORG INT, que divide o processo em três estágios distintos.
 
-**Figura 19** — Modelo de percepção SENS|ORG|INT.
+**Figura 19** — Modelo de percepção SENS ORG INT.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2019.png)
 {: .mx-auto}
@@ -204,6 +204,6 @@ Por fim, é necessário aplicar as informações (mensagens, ícones, rótulos, 
 **Figura 34** — Repetição da posição dos elementos no layout.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2034.png)
-{: .mx-auto}
+{: .mx-auto .px-6}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}

@@ -197,13 +197,13 @@ Por fim, é necessário aplicar as informações (mensagens, ícones, rótulos, 
 **Figura 33** — Identificação da aba de identidade visual (em negativo).
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2033.png)
-{: .mx-auto}
+{: .mx-auto .px-auto}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}
 
 **Figura 34** — Repetição da posição dos elementos no layout.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/Figura%2034.png)
-{: .mx-auto .px-6}
+{: .mx-auto .px-8}
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}

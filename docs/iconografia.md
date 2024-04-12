@@ -17,7 +17,7 @@ nav_order: 4
 
 ## Cognição e Captação da Informação
 
-Uma [característica](@teste) intrínseca ao processo de envelhecimento é o gradual declínio da ordem cognitiva e sensorial dos indivíduos mais velhos. Neste período em que a população idosa se torna cada vez mais numerosa é fundamental que os profissionais do design gráfico compreendam os efeitos e desdobramentos desses processos, embasando seus projetos futuros em princípios do design universal. Para isso é indispensável adquirir um discernimento básico dos processos cognitivos que operam no cérebro humano, e como estes são afetados pelo tempo.
+Uma [característica](#teste-de-tópico) intrínseca ao processo de envelhecimento é o gradual declínio da ordem cognitiva e sensorial dos indivíduos mais velhos. Neste período em que a população idosa se torna cada vez mais numerosa é fundamental que os profissionais do design gráfico compreendam os efeitos e desdobramentos desses processos, embasando seus projetos futuros em princípios do design universal. Para isso é indispensável adquirir um discernimento básico dos processos cognitivos que operam no cérebro humano, e como estes são afetados pelo tempo.
 
 Segundo Padovani e Moura (2008 apud [Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)), quando observamos elementos gráficos, compreendemos seu significado por meio de um processo de conciliação entre os estímulos visuais observados e nossas memórias, um repertório de experiências prévias. Nesse sentido, trata-se de cognição o esforço interpretativo realizado para compreender a informação apresentada e transformá-la em conhecimento. Quanto menor for nossa familiaridade com o elemento gráfico apresentado, maior será a carga cognitiva necessária para interpretá-lo de forma correta. O papel do designer é aplicar estratégias gráficas — como redundância e hierarquia da informação — com o intuito de reduzir o atrito cognitivo entre o observador e a representação visual.
 
@@ -208,7 +208,7 @@ Por fim, é necessário aplicar as informações (mensagens, ícones, rótulos, 
 **Fonte:** Leste, 2024.
 {: .text-center .fs-3}
 
-(@teste) teste de tópico
+###### - teste de tópico
 
 ## Referências
 

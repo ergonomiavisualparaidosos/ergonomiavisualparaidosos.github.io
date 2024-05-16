@@ -107,3 +107,31 @@ Devido a todos esses fatores mencionados que afetam a visão e percepção dos i
 - Texto claro sobre fundo escuro, pois o fundo brilhante pode ofuscar completamente o texto (há aumento do ofuscamento na visão dos idosos) (Cybis; Betiol; Faust, 2007 apud Macedo, 2008).
 
 Ao ter acesso a estes conhecimentos e recomendações, os profissionais são capazes de projetar produtos que respeitem as dificuldades e limitações da população idosa, e, desta forma, tornar o design uma área inclusiva e acolhedora a essa população que é tão suscetível ao ambiente que está inserido.
+
+---
+
+## Referências
+
+- BESTETTI, M. L. T. **Habitação para idosos:** o trabalho do arquiteto, arquitetura e cidade. 2006. Tese (Doutorado em Estruturas Ambientais Urbanas) - Universidade de São Paulo, São Paulo, 2006. Disponível em: <http://www.teses.usp.br/teses/disponiveis/16/16131/tde-04032010-085452/>. Acesso em: 23 fev. 2022.
+
+- CASSEB, Renato Luiz Zinezzi. **Contribuição à integração a vida moderna da população envelhecida por meio da utilização dos terminais de auto-atendimento bancários**. 2007. 82 f. Dissertação (Mestrado em Design) - Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2007. Disponível em: <https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=10316@1>. Acesso em: 12 jul 2023.
+
+- FARIAS, Bruno Serviliano Santos. **Design gráfico inclusivo para a terceira idade:** análise dos elementos iconográficos e tipográficos. 2019. Tese (Doutorado em Design) – Universidade Estadual Paulista (UNESP), Faculdade de Arquitetura, Artes, Comunicação e Design, Bauru, 2019. Disponível em: <http://hdl.handle.net/11449/191372>. Acesso em: 12 jul. 2023. 
+
+- FARIAS, Bruno Serviliano; LANDIM, Paula. da Cruz. Tipografia inclusiva para terceira idade. **Rev. InfoDesign:** Revista Brasileira de Design da Informação, São Paulo, SP, v. 17, n. 2, p. 99-116, 25 nov. 2020. DOI: <https://doi.org/10.51358/id.v17i2.817>. Acesso em: 12 jul. 2023.
+
+- HAZIN, Márcia Maria Vieira; MARTINS, Laura Bezerra. **Os espaços residenciais na percepção dos idosos ativos**. 2012. Dissertação (Mestrado em Design) – Universidade Federal de Pernambuco, Recife, 2012. Disponível em: <https://repositorio.ufpe.br/handle/123456789/3575>. Acesso em: 12 jul. 2023.
+
+- IIDA, Itiro; GUIMARÃES, Lia Buarque de Macedo. **Ergonomia:** projeto e produção. 3. ed. São Paulo: Blucher, 2016.
+
+- LOPES, Ludmila Mara Banks Ferreira. **Jogos de mesa para idosos:** análise e considerações sobre o dominó. 2009. Dissertação (Mestrado em Design e Arquitetura) - Universidade de São Paulo, São Paulo, 2009. DOI <https://doi.org/10.11606/D.16.2009.tde-24032010-103339>. Acesso em: 27 set. 2022.
+
+- MACEDO, Michel Kramer Borges de. **Recomendações de acessibilidade e usabilidade para ambientes virtuais de aprendizagem voltados para o usuário idoso**. 2008. Dissertação (Mestrado) – Universidade Federal de Santa Catarina, Centro Tecnológico. Programa de Pós-Graduação em Engenharia e Gestão de Conhecimento, Florianópolis, 2008. Disponível em: <http://repositorio.ufsc.br/xmlui/handle/123456789/93284>. Acesso em: 12 jul. 2023.
+
+- MILANI, Daniela de Almeida. **O quarto e o banheiro do idoso:** estudo, análise e recomendações para o espaço do usuário residente em instituição de longa permanência. 2014. Dissertação (Mestrado em Design e Arquitetura) - Universidade de São Paulo, São Paulo, 2014. DOI <https://doi.org/10.11606/D.16.2014.tde-21102014-183824>. Acesso em: 12 jul. 2023.
+
+- MONT'ALVÃO, Claudia; VILLAROUCO, Vilma. **Um novo olhar para o projeto:** a ergonomia no ambiente construído. Rio de Janeiro: 2AB, 2011.
+
+- SÂMIA, C. O. F. **Cozinha funcional:** análise do espaço e do usuário idoso. 2008. Dissertação (Mestrado em Design e Arquitetura) - Universidade de São Paulo, São Paulo, 2008. Disponível em: <http://www.teses.usp.br/teses/disponiveis/16/16134/tde-30042010-100508/>. Acesso em: 23 fev. 2022.
+
+- VECHIATO, Fernando Luiz. **Repositório digital como ambiente de inclusão digital e social para usuários idosos**. 2010. 183f. Dissertação (Mestrado em Ciência da Informação) – Faculdade de Filosofia e Ciências, Universidade Estadual Paulista, Marília, 2010. Disponível em: <http://hdl.handle.net/11449/93616>. Acesso em: 12 jul. de 2023.

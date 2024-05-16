@@ -123,3 +123,15 @@ O espaçamento entre as linhas deve ser de pelo menos 25% a 30% do tamanho da fo
 (Imagem)
 
 O comprimento ideal para uma linha de texto legível é de 40 a 60 caracteres por linha, ou seja, de 10 a 12 palavras. Dessa forma, o movimento horizontal dos olhos é reduzido e a fadiga ocular é minimizada (Casseb, 2007).
+
+---
+
+## Referências
+
+- CASSEB, Renato Luiz Zinezzi. **Contribuição à integração a vida moderna da população envelhecida por meio da utilização dos terminais de auto-atendimento bancários**. 2007. 82 f. Dissertação (Mestrado em Design) - Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2007. Disponível em: <https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF>. Acesso em: 25 ago 2022.
+
+- FARIAS, B. S. S. **Design gráfico inclusivo para a terceira idade:** análise dos elementos iconográficos e tipográficos. Tese (Doutorado em Design) - Universidade Estadual Paulista (UNESP), Faculdade de Arquitetura, Artes, Comunicação e Design, Bauru. 2019. Disponível em: <https://repositorio.unesp.br/handle/11449/191372>. Acesso em: 02 out. 2021.
+
+- FARIAS, B. S.; LANDIM, P. da C. Tipografia inclusiva para terceira idade.  2020. **Rev. InfoDesign:** Revista Brasileira de Design da Informação, São Paulo, SP, v. 17, n. 2, p. 99-116, 2020. Disponível em: <https://doi.org/10.51358/id.v17i2.817>. Acesso em: 09 jun. 2022.
+
+- HAZIN, Márcia Maria Vieira; MARTINS, Laura Bezerra. **Os espaços residenciais na percepção dos idosos ativos**. 2012. Dissertação (Mestrado). Programa de Pós-Graduação em Design, Universidade Federal de Pernambuco, Recife, 2012. Disponível em: <https://repositorio.ufpe.br/handle/123456789/3575>. Acesso em: 27 set. 2022.

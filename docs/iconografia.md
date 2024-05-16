@@ -24,7 +24,7 @@ Segundo Padovani e Moura (2008 apud [Farias, 2019](https://repositorio.unesp.br/
 **Figura 16** — Redundância e hierarquia das informações.
 {: .text-center .fs-3}
 ![](Imagens/Iconografia/figura%2016.png)
-{: .mx-auto .px-32}
+{: .mx-auto .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 

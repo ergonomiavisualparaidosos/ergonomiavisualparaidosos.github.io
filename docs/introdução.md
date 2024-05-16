@@ -23,12 +23,12 @@ Este manual de ergonomia para idosos apresentará indicações ergonômicas que 
 
 ## Referências
 
-NG, A. W. Y.; CHAN, A. H. S.; HO, V. W. S. Comprehension by older people of medication information with or without supplementary pharmaceutical pictograms. Applied Ergonomics, v. 58, 2017. Disponível em: <https://doi.org/10.1016/j.apergo.2016.06.005>. Acesso em: 30 nov. 2022.
+- NG, A. W. Y.; CHAN, A. H. S.; HO, V. W. S. Comprehension by older people of medication information with or without supplementary pharmaceutical pictograms. Applied Ergonomics, v. 58, 2017. Disponível em: <https://doi.org/10.1016/j.apergo.2016.06.005>. Acesso em: 30 nov. 2022.
 
-SANDERBERG, L.F.; BUOGO, S. 23 de maio de 2022. OMS divulga novas estatísticas mundiais de saúde. Disponível em: <https://brasil.un.org/pt-br/183080-oms-divulga-novas-estat%C3%ADsticas-mundiais-de-sa%C3%BAde>. Acesso em: 13 abr. 2023.
+- SANDERBERG, L.F.; BUOGO, S. 23 de maio de 2022. OMS divulga novas estatísticas mundiais de saúde. Disponível em: <https://brasil.un.org/pt-br/183080-oms-divulga-novas-estat%C3%ADsticas-mundiais-de-sa%C3%BAde>. Acesso em: 13 abr. 2023.
 
-SOBRAL, E. R. F. de.; PAIVA, M. M. B.; PORTO, N. R. S.; VILLAROUCO, V.. Discussão acerca da Percepção Ambiental, suas Ferramentas e Cognição.  Rev. Estudos em Design, Rio de Janeiro, v. 23, n. 3, 2015. Disponível em: <https://estudosemdesign.emnuvens.com.br/design/article/view/278>. Acesso em: 20 out. 2022. 
+- SOBRAL, E. R. F. de.; PAIVA, M. M. B.; PORTO, N. R. S.; VILLAROUCO, V.. Discussão acerca da Percepção Ambiental, suas Ferramentas e Cognição.  Rev. Estudos em Design, Rio de Janeiro, v. 23, n. 3, 2015. Disponível em: <https://estudosemdesign.emnuvens.com.br/design/article/view/278>. Acesso em: 20 out. 2022. 
 
-SONDEREGGER, A.; SCHMUTZ, S.; SAUER, J. The influence of age in usability testing. Applied Ergonomics, v. 52, 2016. Disponível em: <https://doi.org/10.1016/j.apergo.2015.06.012>. Acesso em: 30 nov. 2022.
+- SONDEREGGER, A.; SCHMUTZ, S.; SAUER, J. The influence of age in usability testing. Applied Ergonomics, v. 52, 2016. Disponível em: <https://doi.org/10.1016/j.apergo.2015.06.012>. Acesso em: 30 nov. 2022.
 
-ZAHABI, M.; MACHADO, P.; JR, C. P.; LAU, M. Y.; LIAO, Y.; HUMMER, J.; RASDORF, W.; KABER, D. B. The role of driver age in performance and attention allocation effects of roadway sign count, format and familiarity. Applied Ergonomics, v. 63, 2017. Disponível em: <https://doi.org/10.1016/j.apergo.2017.04.001>. Acesso em: 30 nov. 2022.
+- ZAHABI, M.; MACHADO, P.; JR, C. P.; LAU, M. Y.; LIAO, Y.; HUMMER, J.; RASDORF, W.; KABER, D. B. The role of driver age in performance and attention allocation effects of roadway sign count, format and familiarity. Applied Ergonomics, v. 63, 2017. Disponível em: <https://doi.org/10.1016/j.apergo.2017.04.001>. Acesso em: 30 nov. 2022.

@@ -21,7 +21,12 @@ A visão, assim como os demais sentidos, é afetada conforme o envelhecimento do
 
 Em geral, são 4 áreas da visão afetadas por este fenômeno: acuidade visual, contraste, percepção visual das cores e luminosidade (Iida; Guimarães, 2016).
 
-(Imagem)
+**Figura 35** — Áreas da visão afetadas pelo envelhecimento.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2035.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 ## Acuidade Visual
 
@@ -29,7 +34,12 @@ A acuidade visual diz respeito à capacidade de distinguir pequenos detalhes. Se
 
 Esses fatores são acometidos por doenças como catarata, glaucoma e a degeneração muscular, que são as principais causas de cegueira ou semi cegueira nas pessoas de mais de 60 anos (Rosenfeld, 2002 apud [Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=10316@1)). “Elas geram imagens distorcidas, reduzem o campo de visão, provocam manchas e desbotam a cor.” ([Farias; Landim, 2020, p. 100](https://doi.org/10.51358/id.v17i2.817)).
 
-(Imagem)
+**Figura 36** — Acuidade visual.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2036.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 A catarata resulta na perda  de transparência do cristalino, parte interna do olho, de modo que a luz que chega até a retina não é suficiente. Ela faz com que a visão fique embaçada, e que letras pequenas, por exemplo, se tornem mais difíceis de serem decifradas (Iida, Guimarães, 2016; Rosenfeld, 2002 apud [Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=10316@1)).
 
@@ -47,13 +57,25 @@ Segundo Pinheiro e Silva (2010 apud [Farias, 2019](http://hdl.handle.net/11449/1
 
 Também com o envelhecimento, junto à perda de sensibilidade ao contraste, há redução na habilidade de discriminar cores (Czaja, 1997 apud [Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=10316@1)). Segundo Iida e Guimarães (2016), deve-se evitar, portanto, combinações de cores que se situem próximas entre si no círculo cromático, como vermelho sobre fundo laranja, pois possuem contraste muito baixo entre si.
 
-(Imagem)
+**Figura 37** — Contraste.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2037.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 ## Percepção de Cores
 
 A cor auxilia no fornecimento de informações, na interpretação, na diferenciação de elementos e memorização. Acredita-se que 80% das informações que o ser humano recebe são de natureza visual, e 40% se refere às cores, comentam Pinheiro e Silva (2010, apud [Farias, 2019](http://hdl.handle.net/11449/191372)).
 
 Devido ao envelhecimento, a percepção das cores também é afetada. Isso se dá principalmente pelo amarelamento do cristalino, que pode chegar a atingir 90% dos idosos entre 75 e 85 anos (Pereira, 2014; Vieria, 2011; Pinheiro, Silva, 2010 apud [Farias, 2019](http://hdl.handle.net/11449/191372)). Isso compromete principalmente a percepção de cores com baixo comprimento de onda, como verde, violeta e azul, dificultando sua distinção (Iida; Guimarães, 2016). 
+
+**Figura 38** — Percepção de cores.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2038.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 “Os idosos também possuem dificuldades em discriminar tons da mesma cor, portanto uma das possibilidades é contrastar, por exemplo, as cores de fundo das páginas e as cores dos textos.” ([Vechiato, 2010, p. 100](http://hdl.handle.net/11449/93616)).
 
@@ -67,13 +89,25 @@ A catarata, que consiste na perda de transparência no cristalino, afeta muitos 
 
 Assim, como dizem Iida e Guimarães (2016), os ambientes para idosos devem ter intensidade luminosa maior para reduzir a fadiga visual. “A iluminação voltada ao idoso deve ser uniforme, contínua, antiofuscante e forte.” ([Hazin; Martins, 2012, p. 68](https://repositorio.ufpe.br/handle/123456789/3575)).
 
-(Imagem)
+**Figura 39** — A iluminação para o idoso.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2039.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Arditi (2006 apud [Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=10316@1)) recomenda exagerar na diferença de luminosidade entre as cores do primeiro plano (texto) e fundo, evitar o uso de contraste entre cores de luminosidade similares, mesmo que essas possuam saturação e matiz diferentes, para auxiliar na sua identificação.
 
 Segundo Iida e Guimarães (2016), há ainda a intensificação da sensibilidade ao ofuscamento na visão dos idosos. “Isso prejudica os motoristas idosos que devem dirigir à noite, quando as intensidades luminosas geralmente são baixas e ocorrem frequentes ofuscamentos.” Iida; Guimarães, 2016, p. 690).
 
 [Vechiato (2010)](http://hdl.handle.net/11449/93616) realizou uma proposta para idosos de interface, em que o branco foi usado como cor de fundo do painel central. Uma das reclamações que receberam foi que a cor branca dificultava a leitura dos elementos do conteúdo do painel central por ser muito clara. Cybis; Betiol; Faust, (2007 apud [Macedo, 2008](http://repositorio.ufsc.br/xmlui/handle/123456789/93284)) indicam letras claras sobre fundo escuro em interfaces na Web, pois o fundo muito brilhante pode causar ofuscamento total aos idosos ou para pessoas com problemas de visão.
+
+**Figura 40** — Uso de cores em interfaces na Web.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2040.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 “Deve ser feita a adaptação do ambiente para incluir o idoso. Nesse caso, um ambiente bem iluminado compensa outros déficits visuais, como a dificuldade da percepção de figura-fundo.” (Mont’alvão, Villarouco, 2011, p. 174).
 
@@ -83,13 +117,23 @@ Pensando no bem estar do idoso, a cor pode ser usada como auxílio para a geraç
 
 O autor ainda menciona como esses estímulos podem amenizar os impactos causados pela depressão e solidão, pois podem provocar efeitos antidepressivos e diminuir a ansiedade. O uso de cores quentes traz mais alegria ao ambiente, e pode ajudar no combate à depressão, sensação de abandono e solidão ([Bestetti, 2006](http://www.teses.usp.br/teses/disponiveis/16/16131/tde-04032010-085452/)).
 
-(Imagem)
+**Figura 41** — Cores quentes no ambiente para idoso.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2041.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 “O ser humano apresenta diversas reações a cores, que fazem com que ele fique triste ou alegre, calmo ou irritado. As pessoas idosas sentem a necessidade de objetos coloridos, que para eles, segundo depoimentos, ‘alegram o ambiente’”. (Whelan, s.d. apud [Sâmia, 2008](http://www.teses.usp.br/teses/disponiveis/16/16134/tde-30042010-100508/)).
 
 Já tons mais frios têm o efeito contrário, e podem ser usados em situações em que se deseja provocar um efeito calmante, como para diminuir a ansiedade, importante para pessoas com sistema nervoso abalado e, por isso, mais agitadas ([Bestetti, 2006](http://www.teses.usp.br/teses/disponiveis/16/16131/tde-04032010-085452/)).
 
-(Imagem)
+**Figura 42** — Cores frias no ambiente para idoso.
+{: .text-center .fs-3}
+![](imagens/cor/Figura%2042.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 ## Recomendações Finais
 

@@ -1,6 +1,25 @@
+# Título do site
 title: Ergonomia Visual para Idosos
+# Descrição do site
 description: Guia de parâmetros ergonômicos visuais para projetos que envolvem idosos.
+
+# Tema do site (padrão)
 theme: just-the-docs
+# Tema claro ou escuro
+color_scheme: light 
+
+# Logo do site
+logo: "/docs/imagens/logo/logo-site-temp.png"
+# Logo do site no navegador 
+favicon_ico: "/docs/imagens/logo/logo-navegador-temp.ico"
+# Texto do rodapé do site
+footer_content: "Rodapé temporário"
+
+# Voltar ao topo
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+# Desabilitar barra de pesquira
 search_enabled: false
 
+# Endereço do site (Pode ser alterado com a compra de um novo domínio)
 url: https://ergonomiavisualparaidosos.github.io/

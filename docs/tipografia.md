@@ -21,13 +21,23 @@ Com o avanço da idade, tem-se a alteração da percepção e dos órgãos dos s
 
 Neste contexto entram os designers, os quais podem ajudar a desenvolver materiais didáticos moldados às características da Terceira Idade, incluindo o uso de letras grandes e imagens para facilitar a leitura. Pesquisas anteriores mostraram que o tamanho, o estilo tipográfico e o espaçamento entre letras afetam a leitura para os idosos, principalmente aqueles com doenças como a catarata e o glaucoma. A escolha da tipografia utilizada nos artefatos domésticos também é importante para a relação usuário versus equipamento, uma vez que o idoso não desfruta mais de todo o seu potencial visual ([Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)).
 
-(Imagem)
+**Figura 1** — Exemplificação de tamanho, estilo tipográfico e espaçamento entre letras.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%201.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Além disso, o desempenho cognitivo e a escolaridade também influenciam na capacidade de leitura dos idosos. Por isso, é importante que os materiais de leitura sejam adaptados para atender às necessidades visuais e cognitivas da Terceira Idade. O Design pode desempenhar um papel crucial na promoção da inclusão e da acessibilidade para os idosos, criando métodos inclusivos que atendam às suas necessidades específicas ([Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)).
 
 Outro aspecto que deve ser considerado é a relação entre o usuário e o equipamento. Os artefatos domésticos devem ser projetados para serem intuitivos e fáceis de usar, considerando as limitações físicas e cognitivas dos idosos. Isso pode ser alcançado por meio do uso de uma tipografia clara e legível, cores contrastantes e ícones intuitivos ([Hazin; Martins, 2012](https://repositorio.ufpe.br/handle/123456789/3575)).
 
-(Imagem)
+**Figura 2** — Tipografía legível, cores contrastantes e ícones intuitivos.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%202.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Em resumo, é fundamental que designers, educadores e profissionais de saúde considerem as necessidades dos idosos em seus projetos e práticas, reconhecendo que o envelhecimento é um processo inevitável que requer adaptação e inclusão. O design inclusivo pode desempenhar um papel importante na promoção da qualidade de vida dos idosos e na garantia de que eles possam desfrutar de uma vida independente e autônoma.
 
@@ -37,11 +47,21 @@ Uma área importante do design universal aborda a importância da tipografia inc
 
 Algumas estratégias para melhorar a acessibilidade para idosos incluem a utilização de elementos de diferenciação, que se referem a simplificação das formas ou mesmo a forte semelhança entre os caracteres que se utilizados de forma incorreta poderiam dificultar a distinção e a legibilidade. O prolongamento das ascendentes e descendentes e modificações da anatomia dos tipos poderiam contribuir para diferenciar as letras e facilitar o reconhecimento das palavras (Frutiger, 2007; Araújo, 2008; Sousa, 2002; Bringhurst, 2007; Farias, Guimarães, Marques, 2018 apud [Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)).
 
-(Imagem)
+**Figura 3** — Elementos de diferenciação.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%203.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Outra estratégia para auxiliar a facilidade na leitura é o estilo de traço, que se refere ao contraste ou modulação, formado pela diferença da espessura entre as hastes, que pode ser grande, médio ou nulo.
 
-(Imagem)
+**Figura 4** — Diferença de espessura entre hastes.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%204.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Grandes modulações tendem a gerar ruídos de informações durante a leitura. Letras com traço homogêneo, sem modulação, tendem a gerar menos ruídos e podem ser mais adequadas para pessoas com problemas de visão (Sousa, 2002; Bringhurst, 2007; Nine, 2006 apud [Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)).
 
@@ -53,17 +73,32 @@ A tipografia inclusiva pode ser aplicada em diversos contextos, desde a criaçã
 
 De acordo com [Farias e Landim (2020)](https://doi.org/10.51358/id.v17i2.817), há uma diferença significativa entre os erros de percepção e compreensão nos testes com letras, palavras e texto.
 
-(Imagem)
+**Figura 5** — Testes de percepção e compreensão com letras, palavras e texto.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%205.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Na categoria de erros em letras, a fonte Bodoni teve uma média de erros superior às fontes Arial, Trebuchet, Gill Sans e Book Antigua. A fonte Times New Roman também apresentou uma média de erros estatisticamente superior à da Gill Sans.
 
-(Imagem)
+**Figura 6** — Comparação entre fontes.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%206.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Em seu estudo, os autores afirmam que em relação aos erros em texto, a fonte Trebuchet apresentou a menor média de erros de leitura em comparação com as fontes Times New Roman, Bodoni e Book Antigua. Na categoria de erros em letras, a média dos erros de Trebuchet é menor do que as fontes Times New Roman, Bodoni e Book Antigua. A fonte Gill Sans apresentou menor média em relação à fonte Bodoni. De acordo com esses testes, as fontes Trebuchet e Gill Sans tiveram uma incidência menor de erros em comparação com as fontes com traços modulares.
 
 Por fim, [Farias e Landim (2020)](https://doi.org/10.51358/id.v17i2.817) concluíram que o estilo de traço modular teve médias de erros de acuidade visual maiores e foi a menos preferida, sugerindo que este estilo seria o menos inclusivo.
 
-(Imagem)
+**Figura 7** — Legibilidade de texto em traço modular.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%207.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Para os autores, quanto menor a acuidade visual maior é a preferência pelo estilo homogêneo, que indica que quanto menor a acuidade visual maior a importância do estilo do traço. As fontes Trebuchet e Gill Sans apresentaram características mais inclusivas para a Terceira Idade, por conta de seus elementos de diferenciação e traço com modulação mínima.
 Os principais erros dos entrevistados, tanto em letras como em palavras, ocorreram com caracteres circulares. Os autores acreditam que este estilo tipográfico causou tal efeito por conta da falta de elementos de diferenciação e pela semelhança anatômica entre os caracteres. Segundo os autores:
@@ -72,29 +107,59 @@ Os principais erros dos entrevistados, tanto em letras como em palavras, ocorrer
 
 [Farias e Landim (2020)](https://doi.org/10.51358/id.v17i2.817) recomendam para a terceira idade o uso de fontes sem serifas e evitar fontes rebuscadas.
 
-(Imagem)
+**Figura 8** — Legibilidade de fontes com e sem serifa.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%208.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 A serifa é caracterizada por uma terminação saliente nos caracteres, que têm o objetivo de permitir leituras mais rápidas por pessoas que percebem apenas estas terminações e não todo o caractere.
 
-(Imagem)
+**Figura 9** — Terminações de fontes serifadas.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%209.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Entretanto, esse efeito é prejudicial para os idosos e/ou pessoas com deficiências visuais, que por não poderem percebê-lo acabam tendo sua visão embaralhada durante a leitura.
 
 Manter texto alinhado à margem esquerda favorece a leitura por criar espaços uniformes entre as palavras e por permitir saltos entre o final de uma linha e o início da próxima linha. (Cybis; Betiol; Faust, 2007 apud [Farias, 2019](https://repositorio.unesp.br/handle/11449/191372)).
 
-(Imagem)
+**Figura 10** — Leiturabilidade de alinhamentos de texto.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2010.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Fontes com pouco espaçamento entre as letras tornam o texto menos legível, fontes “monoespaçadas” em relação a fontes proporcionalmente espaçadas tendem a ser mais legíveis ([Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF)).
 
-(Imagem)
+**Figura 11** — Legibilidade de espaçamentos entre fontes.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2011.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 [Casseb (2007)](https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF) recomenda prudência ao utilizar recursos em termos de estilo, como por exemplo, para discriminar ou destacar uma informação textual. Esses estilos incluem caixa alta e baixa, negrito, itálico e sublinhado.
 
-(Imagem)
+**Figura 12** — Estilos de famílias tipográficas.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2012.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 Dentre esses recursos, o  autor recomenda uso do negrito, itálico ou uma mudança na cor ou no brilho como a melhor opção para realçar o texto, e desaconselha o sublinhado.
 
-(Imagem)
+**Figura 13** — Uso de realces em blocos de texto.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2013.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 ## Contrastes Sugeridos para Melhor Legibilidade/Leiturabilidade
 
@@ -110,7 +175,12 @@ Além disso, o autor sugere evitar o uso de contrastes de cores com comprimentos
 
 A pesquisa realizada por [Farias e Landim (2020)](https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF) mostrou que a variável da escolaridade influenciou na preferência de tamanho dos tipos, indivíduos com menor escolaridade tendem a escolher fontes de maior tamanho uma vez que isto facilita o reconhecimento das palavras.
 
-(Imagem)
+**Figura 14** — Legibilidade de fontes em diferentes tamanhos.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2014.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 De acordo com os autores, essa variável não está diretamente relacionada à percepção, mas sim à compreensão e ao repertório visual. A baixa escolaridade é uma limitação social que restringe e dificulta a compreensão, sendo, portanto, uma variável do design inclusivo, pois influencia as escolhas tipográficas.
 
@@ -120,7 +190,12 @@ Para [Casseb (2007)](https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF), o t
 
 O espaçamento entre as linhas deve ser de pelo menos 25% a 30% do tamanho da fonte, pois muitas pessoas com visão parcial têm dificuldade em identificar o início da próxima linha enquanto leem.
 
-(Imagem)
+**Figura 15** — Leiturabilidade de texto em diferentes entrelinhas.
+{: .text-center .fs-3}
+![](imagens/tipografia/Figura%2015.png)
+{: .mx-auto .px-10}
+**Fonte:** do autor.
+{: .text-center .fs-3}
 
 O comprimento ideal para uma linha de texto legível é de 40 a 60 caracteres por linha, ou seja, de 10 a 12 palavras. Dessa forma, o movimento horizontal dos olhos é reduzido e a fadiga ocular é minimizada ([Casseb, 2007](https://www.maxwell.vrac.puc-rio.br/10316/10316_1.PDF)).
 

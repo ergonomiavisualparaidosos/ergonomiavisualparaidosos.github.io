@@ -119,7 +119,7 @@ A serifa é caracterizada por uma terminação saliente nos caracteres, que têm
 **Figura 9** — Terminações de fontes serifadas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%209.png)
-{: .mx-auto .px-10}
+{: .mx-auto}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -148,7 +148,7 @@ Fontes com pouco espaçamento entre as letras tornam o texto menos legível, fon
 **Figura 12** — Estilos de famílias tipográficas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2012.png)
-{: .mx-auto .px-10}
+{: .mx-auto}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 

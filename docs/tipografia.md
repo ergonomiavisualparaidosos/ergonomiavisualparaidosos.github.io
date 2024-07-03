@@ -148,7 +148,7 @@ Fontes com pouco espaçamento entre as letras tornam o texto menos legível, fon
 **Figura 12** — Estilos de famílias tipográficas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2012.png)
-{: .mx-auto}
+{: .mx-auto .my-auto}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 

@@ -24,7 +24,7 @@ Neste contexto entram os designers, os quais podem ajudar a desenvolver materiai
 **Figura 1** — Exemplificação de tamanho, estilo tipográfico e espaçamento entre letras.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%201.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -35,7 +35,7 @@ Outro aspecto que deve ser considerado é a relação entre o usuário e o equip
 **Figura 2** — Tipografía legível, cores contrastantes e ícones intuitivos.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%202.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -50,7 +50,7 @@ Algumas estratégias para melhorar a acessibilidade para idosos incluem a utiliz
 **Figura 3** — Elementos de diferenciação.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%203.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -59,7 +59,7 @@ Outra estratégia para auxiliar a facilidade na leitura é o estilo de traço, q
 **Figura 4** — Diferença de espessura entre hastes.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%204.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -76,7 +76,7 @@ De acordo com [Farias e Landim (2020)](https://doi.org/10.51358/id.v17i2.817), h
 **Figura 5** — Testes de percepção e compreensão com letras, palavras e texto.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%205.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -85,7 +85,7 @@ Na categoria de erros em letras, a fonte Bodoni teve uma média de erros superio
 **Figura 6** — Comparação entre fontes.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%206.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -96,7 +96,7 @@ Por fim, [Farias e Landim (2020)](https://doi.org/10.51358/id.v17i2.817) conclu�
 **Figura 7** — Legibilidade de texto em traço modular.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%207.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -110,7 +110,7 @@ Os principais erros dos entrevistados, tanto em letras como em palavras, ocorrer
 **Figura 8** — Legibilidade de fontes com e sem serifa.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%208.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -119,7 +119,7 @@ A serifa é caracterizada por uma terminação saliente nos caracteres, que têm
 **Figura 9** — Terminações de fontes serifadas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%209.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -130,7 +130,7 @@ Manter texto alinhado à margem esquerda favorece a leitura por criar espaços u
 **Figura 10** — Leiturabilidade de alinhamentos de texto.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2010.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -139,7 +139,7 @@ Fontes com pouco espaçamento entre as letras tornam o texto menos legível, fon
 **Figura 11** — Legibilidade de espaçamentos entre fontes.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2011.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -148,7 +148,7 @@ Fontes com pouco espaçamento entre as letras tornam o texto menos legível, fon
 **Figura 12** — Estilos de famílias tipográficas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2012.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -157,7 +157,7 @@ Dentre esses recursos, o  autor recomenda uso do negrito, itálico ou uma mudan�
 **Figura 13** — Uso de realces em blocos de texto.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2013.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -178,7 +178,7 @@ A pesquisa realizada por [Farias e Landim (2020)](https://www.maxwell.vrac.puc-r
 **Figura 14** — Legibilidade de fontes em diferentes tamanhos.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2014.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -193,7 +193,7 @@ O espaçamento entre as linhas deve ser de pelo menos 25% a 30% do tamanho da fo
 **Figura 15** — Leiturabilidade de texto em diferentes entrelinhas.
 {: .text-center .fs-3}
 ![](imagens/tipografia/Figura%2015.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 

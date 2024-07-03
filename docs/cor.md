@@ -24,7 +24,7 @@ Em geral, são 4 áreas da visão afetadas por este fenômeno: acuidade visual, 
 **Figura 35** — Áreas da visão afetadas pelo envelhecimento.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2035.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -37,7 +37,7 @@ Esses fatores são acometidos por doenças como catarata, glaucoma e a degenera�
 **Figura 36** — Acuidade visual.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2036.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -60,7 +60,7 @@ Também com o envelhecimento, junto à perda de sensibilidade ao contraste, há 
 **Figura 37** — Contraste.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2037.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -73,7 +73,7 @@ Devido ao envelhecimento, a percepção das cores também é afetada. Isso se d�
 **Figura 38** — Percepção de cores.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2038.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -92,7 +92,7 @@ Assim, como dizem Iida e Guimarães (2016), os ambientes para idosos devem ter i
 **Figura 39** — A iluminação para o idoso.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2039.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -105,7 +105,7 @@ Segundo Iida e Guimarães (2016), há ainda a intensificação da sensibilidade 
 **Figura 40** — Uso de cores em interfaces na Web.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2040.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -120,7 +120,7 @@ O autor ainda menciona como esses estímulos podem amenizar os impactos causados
 **Figura 41** — Cores quentes no ambiente para idoso.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2041.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 
@@ -131,7 +131,7 @@ Já tons mais frios têm o efeito contrário, e podem ser usados em situações 
 **Figura 42** — Cores frias no ambiente para idoso.
 {: .text-center .fs-3}
 ![](imagens/cor/Figura%2042.png)
-{: .mx-auto .px-10}
+{: .d-flex .flex-justify-around .px-10}
 **Fonte:** do autor.
 {: .text-center .fs-3}
 

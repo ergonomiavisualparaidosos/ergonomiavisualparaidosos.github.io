@@ -6,7 +6,7 @@ description: Guia de parâmetros ergonômicos visuais para projetos que envolvem
 # Tema do site (padrão)
 theme: just-the-docs
 # Tema claro ou escuro
-color_scheme: light 
+color_scheme: light-blue
 
 # Logo do site
 logo: "/docs/imagens/logo/logo-site-temp.png"

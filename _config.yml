@@ -9,9 +9,9 @@ theme: just-the-docs
 color_scheme: light-blue
 
 # Logo do site
-logo: "/docs/imagens/logo/logo-site-temp.png"
+logo: "/docs/imagens/logo/logo-site.png"
 # Logo do site no navegador 
-favicon_ico: "/docs/imagens/logo/logo-navegador-temp.ico"
+favicon_ico: "/docs/imagens/logo/logo-navegador.ico"
 # Texto do rodapé do site
 footer_content: "Copyright 2024 — Todos os direitos reservados."
 

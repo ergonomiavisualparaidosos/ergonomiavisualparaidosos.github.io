@@ -13,7 +13,7 @@ logo: "/docs/imagens/logo/logo-site-temp.png"
 # Logo do site no navegador 
 favicon_ico: "/docs/imagens/logo/logo-navegador-temp.ico"
 # Texto do rodapé do site
-footer_content: "Rodapé temporário"
+footer_content: "Copyright 2024 — Todos os direitos reservados."
 
 # Voltar ao topo
 back_to_top: true

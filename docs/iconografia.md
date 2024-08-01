@@ -4,7 +4,7 @@ layout: page
 nav_order: 4
 ---
 
-# Iconografia
+# ICONOGRAFIA
 {: .no_toc }
 
 ## Tabela de Conteúdos

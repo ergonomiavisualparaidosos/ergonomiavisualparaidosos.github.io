@@ -13,7 +13,7 @@ logo: "/docs/imagens/logo/logo-site.png"
 # Logo do site no navegador 
 favicon_ico: "/docs/imagens/logo/logo-navegador.ico"
 # Texto do rodapé do site
-footer_content: "Copyright 2024 — Dra. Cristiane Affonso de Almeida Zerbetto, Anthony Gabriel Vieira Bonfim, Julia Leal Moreira, Karina Satomi Nakamura, Mariana Dall Pizzolo."
+footer_content: "Copyright 2024 — Dra. Cristiane Affonso de Almeida Zerbetto, Anthony Gabriel Vieira Bonfim, Julia Leal Moreira,\nKarina Satomi Nakamura, Mariana Dall Pizzolo."
 
 # Voltar ao topo
 back_to_top: true
